@@ -1,0 +1,23 @@
+.aligncenter{
+    align-items: center;
+    justify-content: center;
+}
+button{
+    background-color: rgb(179, 8, 42);
+    color: white;
+    margin-top: 10px;
+}
+.buttonTrue{
+    display: block;
+    background-color: rgb(83, 231, 83);
+    height: 250px;
+    width: 50%;
+    margin: 0 auto;
+}
+.buttonFalse{
+    display: block;
+    background-color: rgb(243, 107, 107);
+    height: 250px;
+    width: 50%;
+    margin: 0 auto;
+}
